@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Branch: shell-script version2"
+echo "Branch: shell-script. Version 2"
